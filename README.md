@@ -16,4 +16,4 @@ Este proyecto está desarrollado con **HTML, CSS y JavaScript puro (Vanilla JS)*
 
 1. **Clona el repositorio o descarga los archivos**  
    ```bash
-   git clone https://github.com/tuusuario/amigo-secreto.git
+   git clone https://github.com/Brayan8Ch/challenge-amigo-secreto_esp-main.git
